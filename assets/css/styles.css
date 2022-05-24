@@ -1,0 +1,64 @@
+/* GOOGLE FONTS */
+@import url("https://fonts.googleapis.com/css2?family=Exo:wght@400;500;600&display=swap");
+
+/*=============== VARIABLES CSS ===============*/
+@import "variables.css";
+
+/*=============== BASE ===============*/
+@import "base.css";
+
+/*=============== REUSABLE CSS CLASSES ===============*/
+@import "reusable.css";
+
+/* display */
+/*=============== HEADER & NAV ===============*/
+@import "display/header-nav.css";
+
+/*=============== HOME ===============*/
+@import "display/home.css";
+
+/*=============== BUTTON ===============*/
+@import "display/button.css";
+
+/*=============== ABOUT ===============*/
+@import "display/about.css";
+
+/*=============== POPULAR ===============*/
+@import "display/popular.css";
+
+/*=============== FEATURES ===============*/
+@import "display/features.css";
+
+/*=============== FEATURED ===============*/
+@import "display/featured.css";
+
+/*=============== OFFER ===============*/
+@import "display/offer.css";
+
+/*=============== LOGOS ===============*/
+@import "display/logos.css";
+
+/*=============== FOOTER ===============*/
+@import "display/footer.css";
+
+/* response */
+/* Swiper class */
+@import "response/swiper.css";
+
+/* Active link featured */
+@import "response/active-featured.css";
+
+/* SCROLL BAR */
+@import "response/scroll-bar.css";
+
+/* SCROLL UP */
+@import "response/scroll-up.css";
+
+/* Show Scroll Up*/
+@import "response/show-scroll-up.css";
+
+/* Active link */
+@import "response/active-link.css";
+
+/*=============== BREAKPOINTS ===============*/
+@import "response/media-screen.css";

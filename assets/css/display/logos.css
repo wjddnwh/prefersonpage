@@ -1,0 +1,19 @@
+/*=============== LOGOS ===============*/
+.logos__img {
+    width: 80px;
+    height: 80px;
+    opacity: .4;
+    transition: .3s;
+  }
+  
+  .logos__container {
+    grid-template-columns: repeat(3, max-content);
+    justify-content: center;
+    align-content: center;
+    gap: 4rem;
+    padding-bottom: 2rem;
+  }
+  
+  .logos__img:hover {
+    opacity: 1;
+  }
