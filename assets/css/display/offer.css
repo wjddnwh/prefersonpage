@@ -41,3 +41,9 @@
     bottom: 2rem;
     right: -5.5rem;
   }
+
+  @media screen and (max-width: 580px) {
+    .offer__img {
+      display: none;
+    }
+  }
