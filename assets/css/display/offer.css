@@ -16,7 +16,7 @@
     object-fit: cover;
     object-position: center;
   }
-  
+
   .offer__data,
   .offer__img {
     position: relative;
@@ -32,6 +32,12 @@
   
   .offer__description {
     margin-bottom: 3rem;
+    display: flex;
+  }
+
+  .offer__image {
+    width: 150px;
+    padding-right: 30px;
   }
   
   .offer__img {
