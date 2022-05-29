@@ -37,6 +37,10 @@
     color: var(--first-color);
   }
   
+  .active-link {
+    color: var(--first-color);
+  }
+
   .nav__toggle {
     font-size: 1.25rem;
     cursor: pointer;
@@ -74,6 +78,7 @@
   .nav__link:hover {
     color: var(--first-color);
   }
+
   
   .nav__close {
     font-size: 2rem;

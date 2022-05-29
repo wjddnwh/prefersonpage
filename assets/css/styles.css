@@ -62,3 +62,6 @@
 
 /*=============== BREAKPOINTS ===============*/
 @import "response/media-screen.css";
+
+/* user-component */
+@import "display/user-component.css";
